@@ -1,0 +1,6 @@
+:root{
+    --color-text: hsl(193, 38%, 86%);
+    --color-card: hsl(217, 19%, 24%);
+    --color-fundo: hsl(218, 23%, 16%);
+    --color-button-text: hsl(150, 100%, 66%);
+}
